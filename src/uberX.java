@@ -1,4 +1,4 @@
-  class uberX extends Car{
+ class uberX extends Car{    // declaracion de herencia usando extends//
     String brand;
     String model;
     // metodo constructor//
@@ -9,4 +9,9 @@
          this.model= model;
 
      }
-  }
+
+     public uberX( account account) {
+     }
+
+
+ }

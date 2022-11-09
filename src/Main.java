@@ -10,10 +10,9 @@ public class Main {
          car.printDataCar();
 
 
-
-
-
-
+        System.out.printf("uberX");
+         uberX uberx=new uberX("s1234","mario luna","renault","symbol" + new account("23456","1020483291","geraldinecuartasQgmail.com",
+                 "geral1234"));
 
 
 
